@@ -4,7 +4,7 @@
 
 In this project I used de Api SWAPI, to gives the information about the movies of Star Wars.
 
-https://swapi.co/
+This is the link of the swapi page https://swapi.co/
 
 The challenge of this api was create the modal whit the characters information and put images of the characters, also enter to the data of this Api SWAPI.
 
