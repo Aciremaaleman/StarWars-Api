@@ -1,6 +1,6 @@
 # StarWars-api
 
-![API STAR WARS](assets/images/swapi.png)
+![image](https://user-images.githubusercontent.com/32856885/38873297-06c20914-421b-11e8-9028-f293f3adf9aa.png)
 
 In this project I used de Api SWAPI, to gives the information about the movies of Star Wars.
 
